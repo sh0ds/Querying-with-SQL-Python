@@ -1,1 +1,2 @@
 simple visualization of SQLite queries with Python & Pandas.
+https://roadmap.sh/projects/querying-sql-python
